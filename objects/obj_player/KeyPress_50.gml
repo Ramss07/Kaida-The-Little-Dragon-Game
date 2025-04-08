@@ -1,0 +1,1 @@
+room_goto(rm_village_to_cave_text)

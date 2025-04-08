@@ -1,0 +1,1 @@
+room_goto(rm_kitsune_to_finalboss_text);
